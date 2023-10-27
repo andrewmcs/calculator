@@ -1,3 +1,8 @@
+.sumDisplay {
+    text-align: right; 
+    font-size: 3em;
+}
+
 .calculator {
     display: flex;
     flex-direction: column;
